@@ -3,7 +3,7 @@ import React from 'react'
 
 const Onboarding = () => {
     return (
-        <View>
+        <View className="flex-1 items-center justify-center bg-background">
             <Text>Onboarding</Text>
         </View>
     )
